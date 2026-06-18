@@ -1,4 +1,4 @@
-# Naveena Dharmaalingam
+# Naveena Dharmalingam
 ## Full Stack Developer
 Welcome to my GitHub profile.
 I am an aspiring Full Stack Developer with a strong interest in building modern, user-friendly, and scalable web applications. I have completed an internship in Website Development, where I gained practical experience in designing, developing, and maintaining web-based solutions.
